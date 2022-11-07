@@ -1,0 +1,12 @@
+cluster API key
+
+=== Confluent Cloud API key: lkc-q2m8p2 ===
+
+API key:
+GDOSKZE5ME7XVAAJ
+
+API secret:
+qgHjFDkRgXlYdEGNb2rIWeYXFgi6kY3Di+5EKcNj4WPSgC0qK97DU1/dwU1cKYGX
+
+Bootstrap server:
+pkc-41p56.asia-south1.gcp.confluent.cloud:9092
